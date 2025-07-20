@@ -30,7 +30,7 @@ spec:
                name: app-secret
                key: db-pass
       volumes:
-        - name: pro-db-data 
+        - name: vpro-db-data 
           persistentVolumeClaim:
             claimName: db-pv-claim 
 
@@ -43,4 +43,3 @@ spec:
               mountPath: /var/lib/mysql
 
 
-  
