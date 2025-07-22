@@ -2,7 +2,6 @@
 
 This project walks through deploying the **VProfile** web application on a Kubernetes cluster using **kOps** on AWS. It includes everything from backend services like MySQL and RabbitMQ to external access via Ingress.
 
-Perfect for showcasing a real-world microservices setup as part of a DevOps portfolio.
 
 ---
 
